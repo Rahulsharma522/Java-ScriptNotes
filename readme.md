@@ -12,3 +12,12 @@ arr.push(.items) – adds items to the end,
 arr.pop()- remove item from the end.
 arr.shift() – remove an item from the beginning,
 arr.unshift()- ad item to the beginning. 
+
+Number
+
+The number type represent both integer and floating point numbers.
+
+1 let a = 123;
+a =234.5;
+
+
