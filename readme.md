@@ -18,4 +18,11 @@ The number type represent both integer and floating point numbers.
 
 `1 let a = 123
 a = 234.5;`
+An object
 
+    Is capable of storing multiple values as properties.
+    Can be created with {}, for instance:
+
+    "{name: "John", age: 30}"
+    
+    There are other kinds of objects in JavaScript: functions, for example, are objects.
