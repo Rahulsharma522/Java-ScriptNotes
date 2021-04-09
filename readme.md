@@ -17,6 +17,5 @@ Number
 The number type represent both integer and floating point numbers.
 
 `1 let a = 123
-
-a =234.5;`
+a = 234.5;`
 
